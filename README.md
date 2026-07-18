@@ -4,8 +4,8 @@ Projects and practice material for SQL, databases, analytics, tabular data, Exce
 
 ## Contents
 
-- `basic-sql-lab` - SQLite practice lab with a generated internship-style database, query runner, interactive SQL shell, exercises, and solutions.
+- `basic-sql-lab` - SQLite practice lab with an internship-style database, query runner, interactive SQL shell, exercises, and solutions.
 
 ## Notes
 
-Generated database files are ignored. Rebuild local databases from the included setup scripts when needed.
+Local database files are ignored. Rebuild them from the included setup scripts when needed.
